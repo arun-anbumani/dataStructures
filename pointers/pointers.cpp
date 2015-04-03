@@ -24,3 +24,17 @@ int main()
  
       return 0;
 }
+
+
+/* OUTPUT
+
+The value of 'a': 50
+The value b: 0x7fff0c57720c
+The value *b: 100
+The value of 'a' using *b: 100
+The value c: 0x7fff0c577210
+The value *c: 0x7fff0c57720c
+The value **c: 200
+The value of 'a' using **c: 200
+
+*/
