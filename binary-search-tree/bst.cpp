@@ -53,3 +53,17 @@ int main()
 
 	return 0;
 }
+
+
+/*
+OUTPUT:
+
+Inserting data = 3
+Inserting data = 2
+Inserting data = 5
+3
+2  5
+Found 2 at addr = 0x2143030
+Not found...!
+
+*/
